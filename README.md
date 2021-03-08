@@ -1,4 +1,4 @@
-# 202102224_Recoil_Notepad_Demo
+# 20210224_Recoil_Notepad_Demo
 
 このリポジトリはICS MEDIAの記事『[Recoilとは？Reduxとの違いを解説](https://ics.media/entry/210224/)』のサンプルです。
 
