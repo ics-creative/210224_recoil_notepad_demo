@@ -5,7 +5,7 @@
 サンプルを見るには[デモページ](https://ics-creative.github.io/210224_recoil_notepad_demo/)から開くか、以下の要領でリポジトリをローカルにクローンして実行してください。
 
 ```shell
-git clone https://github.com/ics-creative/20210224_recoil_notepad_demo.git
+git clone https://github.com/ics-creative/210224_recoil_notepad_demo.git
 cd 20210224_recoil_notepad_demo
 npm
 npm start
