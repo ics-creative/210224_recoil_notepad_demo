@@ -6,7 +6,7 @@
 
 ```shell
 git clone https://github.com/ics-creative/210224_recoil_notepad_demo.git
-cd 20210224_recoil_notepad_demo
+cd demo
 npm
 npm start
 ```
