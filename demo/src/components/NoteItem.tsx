@@ -32,7 +32,7 @@ export const NoteItem: React.FC<Props> = ({ item }) => {
       setNotes(newList);
     },
 
-    [notes, setNotes]
+    [notes, setNotes],
   );
 
   /**

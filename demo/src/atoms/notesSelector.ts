@@ -10,7 +10,7 @@ export const notesSelector = selector({
     const notepadList = get(notesAtom);
     const totalNum = notepadList.length;
     const totalCompletedNum = notepadList.filter(
-      (item) => item.isComplete
+      (item) => item.isComplete,
     ).length;
     const totalUncompletedNum = totalNum - totalCompletedNum;
     const percentCompleted =

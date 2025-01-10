@@ -21,7 +21,7 @@ export const NoteApp: React.FC = () => {
       [
         ...state,
         { id: String(state.length + 1), value: "", isComplete: false },
-      ].sort((a, b) => a.id.localeCompare(b.id))
+      ].sort((a, b) => a.id.localeCompare(b.id)),
     );
   }, [setNotepad]);
 
